@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raban Savant
-- 👀 I’m interested in python, C++, VR, and video games
-- 🌱 I’m currently learning C#, C++, and python
+- 👀 I’m interested in python, Java, C++, VR, and video games
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on... not sure, but im always here to talk!
 
 <!---
